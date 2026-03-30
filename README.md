@@ -14,8 +14,8 @@ Using the **Density-Matrix Renormalisation Group (DMRG)** algorithm, we compute 
 ## 📂 Repository Structure
 
 
-- **/data**:  data files (.xlsx and .dat) corresponding to the plots in the paper.
-- **/code**: Python script is given to plot Figure 2 of the manuscript.
+- **data**:  data files (.xlsx and .dat) corresponding to the plots in the paper.
+- **code**: Python script is given to plot Figure 2 of the manuscript.
 
 ## 🔧 Methodologies
 - **Model:** Two-leg ladder model with p-wave-like hybridisation.
