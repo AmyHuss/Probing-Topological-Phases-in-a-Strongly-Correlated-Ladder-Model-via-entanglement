@@ -117,8 +117,8 @@ def plot_single_panel(ax, df, t_c1, t_f1, title_label, show_ylabel=True, show_le
 
 # Load Data
 try:
-    df_a = pd.read_excel('a.xlsx')
-    df_b = pd.read_excel('b.xlsx')
+    df_a = pd.read_excel('Figure_2a.xlsx')
+    df_b = pd.read_excel('Figure_2b.xlsx')
 except FileNotFoundError:
     print("Error: Make sure 'a.xlsx' and 'b.xlsx' are in the current directory.")
     exit()
